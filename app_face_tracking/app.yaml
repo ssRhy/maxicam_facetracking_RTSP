@@ -1,0 +1,16 @@
+id: face_tracking
+name: face_tracking_with_posture
+name[zh]: 人脸追踪
+version: 1.0.2
+author: Sipeed Ltd
+icon: ''
+desc: Face tracking with MaixCAM and gimbal +posture
+desc[zh]: 使用 MaixCAM 和云台进行人脸跟踪。
+files:
+  - assets\exit_touch.jpg
+  - assets\exit.jpg
+  - assets\face_tracking.png
+  - face_tracking\servos.py
+  - app.yaml
+  - main.py
+  - README.md
